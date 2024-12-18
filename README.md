@@ -1,2 +1,2 @@
-# propstar_core
+# ProPStar_core
 Package to help with handling of ProPStar data
